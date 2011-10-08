@@ -1,4 +1,4 @@
-Web Guitar
-==========
+Infinite Guitar
+===============
 
-Web guitar is a game in HTML5 to simulate a guitar.
+Infinite guitar is a game in HTML5 to simulate a guitar.
